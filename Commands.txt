@@ -1,0 +1,18 @@
+1. Make directory 
+hadoop fs -mkdir /user/castek/CropYield
+
+2-Moving Data file
+hadoop fs -put /home/castek/Desktop/soil.csv /user/castek/CropYield
+	
+3-To see file is moved
+hadoop fs -ls /user/castek/CropYield
+
+4-To run jar file
+hadoop  jar /home//home/castek/Desktop/Knn.jar  Knn  /user/castek/CropYieldOutput
+
+5-To see output
+hadoop fs -ls /user/castek/CropYieldOutput
+
+6-cmd:-
+hadoop fs -cat /user/castek/CropYieldOutput/00000
+
