@@ -1,0 +1,13 @@
+The basic need of a human body is served by Agriculture, and that’s much of the Indian population
+has farming as their means of only and major source of income in the family. There are various 
+factors on which the crop yield depends such as soil, weather, rain, pesticides and fertilizers,
+these have direct impact on the production and so these are very important to be taken care of 
+while the sowing of the seeds. With the digital advancements, and increased use of the latest
+technologies in agriculture field, there is large amount of data being produced at rate which
+is difficult to be maintained by the traditional systems. Identification of effectiveness of
+data analytics is the main challenge in using data in agriculture has ‘Soil’ as the major parameter
+being used to increase the crop production. Soil data set is being used, to predict the total yield 
+of the crop, by applying Apriori algorithm and classify the crops using KNN algorithm. 
+The parameters are being used are- types of soil, types of crops, nutrients, rainfall, climatic conditions. 
+
+KEYWORDS- Big data, crop yield prediction, KNN classification algorithm , Apriori algorithm
